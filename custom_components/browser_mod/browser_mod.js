@@ -65,7 +65,7 @@ const e="lovelace-player-device-id";function t(){if(!localStorage[e]){const t=()
             text-overflow: ellipsis;
           }
           .content {
-            margin: -20px -24px;
+            margin: -24px -24px;
           }
 
           @media all and (max-width: 450px), all and (max-height: 500px) {
